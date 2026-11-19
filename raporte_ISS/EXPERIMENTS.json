@@ -1,0 +1,1294 @@
+{
+  "date": "2026-11-18",
+  "scenario": "ISS",
+  "status": "checkpoint_saved_optimization_not_exhausted",
+  "baseline": {
+    "correct_cubes": 140,
+    "commands": 530,
+    "official_fitness": -0.9249794238683127
+  },
+  "best": {
+    "correct_cubes": 142,
+    "commands": 535,
+    "official_fitness": -0.9407436801881247,
+    "sha256": "30d4ee29bdb2f527aea19a0d958fb451886d4dfee698282a8abdb57c11c1ea7a",
+    "relative_solution": "outputs/best_0008.npy"
+  },
+  "genuine_improvement": true,
+  "cube_gain": 2,
+  "commands_removed": -5,
+  "fitness_improvement": 0.015764256319812042,
+  "independent_official_verification": {
+    "official_fitness": -0.9407436801881247,
+    "correct_cubes": 142,
+    "commands": 535,
+    "ineffective_commands": [],
+    "rules_valid": true,
+    "prefixes_checked": 535,
+    "validation_evaluations": 537,
+    "validation_seconds": 23.214926699991338,
+    "positions": [
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        6,
+        4,
+        4
+      ],
+      [
+        5,
+        4,
+        4
+      ],
+      [
+        2,
+        4,
+        4
+      ],
+      [
+        7,
+        7,
+        3
+      ],
+      [
+        10,
+        3,
+        1
+      ],
+      [
+        4,
+        6,
+        4
+      ],
+      [
+        3,
+        6,
+        6
+      ],
+      [
+        0,
+        6,
+        4
+      ],
+      [
+        8,
+        5,
+        4
+      ],
+      [
+        8,
+        2,
+        1
+      ],
+      [
+        8,
+        3,
+        1
+      ],
+      [
+        3,
+        5,
+        4
+      ],
+      [
+        9,
+        2,
+        0
+      ],
+      [
+        3,
+        4,
+        4
+      ],
+      [
+        10,
+        6,
+        7
+      ],
+      [
+        5,
+        4,
+        2
+      ],
+      [
+        0,
+        5,
+        4
+      ],
+      [
+        5,
+        3,
+        3
+      ],
+      [
+        10,
+        5,
+        3
+      ],
+      [
+        8,
+        2,
+        0
+      ],
+      [
+        9,
+        5,
+        3
+      ],
+      [
+        0,
+        2,
+        1
+      ],
+      [
+        7,
+        2,
+        3
+      ],
+      [
+        8,
+        1,
+        -2
+      ],
+      [
+        9,
+        3,
+        1
+      ],
+      [
+        0,
+        4,
+        2
+      ],
+      [
+        3,
+        5,
+        6
+      ],
+      [
+        6,
+        5,
+        2
+      ],
+      [
+        9,
+        5,
+        5
+      ],
+      [
+        8,
+        6,
+        7
+      ],
+      [
+        10,
+        6,
+        6
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        5,
+        8,
+        3
+      ],
+      [
+        5,
+        7,
+        3
+      ],
+      [
+        8,
+        5,
+        3
+      ],
+      [
+        9,
+        6,
+        6
+      ],
+      [
+        8,
+        6,
+        6
+      ],
+      [
+        9,
+        2,
+        1
+      ],
+      [
+        6,
+        5,
+        3
+      ],
+      [
+        5,
+        5,
+        2
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        1,
+        5,
+        4
+      ],
+      [
+        9,
+        3,
+        3
+      ],
+      [
+        11,
+        2,
+        1
+      ],
+      [
+        0,
+        4,
+        3
+      ],
+      [
+        8,
+        2,
+        -2
+      ],
+      [
+        6,
+        3,
+        3
+      ],
+      [
+        0,
+        5,
+        5
+      ],
+      [
+        11,
+        4,
+        4
+      ],
+      [
+        11,
+        3,
+        1
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        9,
+        4,
+        4
+      ],
+      [
+        8,
+        5,
+        5
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        1,
+        4,
+        4
+      ],
+      [
+        8,
+        4,
+        4
+      ],
+      [
+        1,
+        5,
+        3
+      ],
+      [
+        2,
+        5,
+        5
+      ],
+      [
+        2,
+        3,
+        2
+      ],
+      [
+        10,
+        4,
+        4
+      ],
+      [
+        0,
+        3,
+        1
+      ],
+      [
+        5,
+        2,
+        3
+      ],
+      [
+        3,
+        5,
+        3
+      ],
+      [
+        3,
+        2,
+        0
+      ],
+      [
+        1,
+        4,
+        3
+      ],
+      [
+        6,
+        4,
+        2
+      ],
+      [
+        4,
+        7,
+        3
+      ],
+      [
+        10,
+        5,
+        6
+      ],
+      [
+        11,
+        5,
+        6
+      ],
+      [
+        1,
+        4,
+        2
+      ],
+      [
+        8,
+        4,
+        2
+      ],
+      [
+        3,
+        5,
+        5
+      ],
+      [
+        8,
+        3,
+        2
+      ],
+      [
+        11,
+        6,
+        6
+      ],
+      [
+        10,
+        4,
+        3
+      ],
+      [
+        1,
+        5,
+        5
+      ],
+      [
+        8,
+        5,
+        6
+      ],
+      [
+        1,
+        6,
+        7
+      ],
+      [
+        11,
+        4,
+        3
+      ],
+      [
+        11,
+        3,
+        2
+      ],
+      [
+        4,
+        5,
+        3
+      ],
+      [
+        2,
+        4,
+        2
+      ],
+      [
+        0,
+        5,
+        6
+      ],
+      [
+        0,
+        3,
+        2
+      ],
+      [
+        2,
+        5,
+        4
+      ],
+      [
+        7,
+        2,
+        4
+      ],
+      [
+        0,
+        6,
+        6
+      ],
+      [
+        10,
+        4,
+        2
+      ],
+      [
+        3,
+        3,
+        3
+      ],
+      [
+        3,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        3
+      ],
+      [
+        10,
+        5,
+        5
+      ],
+      [
+        2,
+        6,
+        7
+      ],
+      [
+        3,
+        3,
+        2
+      ],
+      [
+        7,
+        6,
+        4
+      ],
+      [
+        4,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        6,
+        7,
+        3
+      ],
+      [
+        6,
+        2,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        9,
+        4,
+        2
+      ],
+      [
+        11,
+        2,
+        0
+      ],
+      [
+        7,
+        4,
+        3
+      ],
+      [
+        10,
+        2,
+        1
+      ],
+      [
+        11,
+        5,
+        5
+      ],
+      [
+        9,
+        5,
+        4
+      ],
+      [
+        5,
+        6,
+        3
+      ],
+      [
+        6,
+        5,
+        4
+      ],
+      [
+        1,
+        3,
+        1
+      ],
+      [
+        11,
+        3,
+        3
+      ],
+      [
+        3,
+        4,
+        2
+      ],
+      [
+        10,
+        3,
+        2
+      ],
+      [
+        1,
+        5,
+        6
+      ],
+      [
+        1,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        5,
+        5,
+        4
+      ],
+      [
+        0,
+        2,
+        0
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        11,
+        5,
+        4
+      ],
+      [
+        8,
+        3,
+        3
+      ],
+      [
+        11,
+        4,
+        2
+      ],
+      [
+        2,
+        6,
+        6
+      ],
+      [
+        4,
+        3,
+        3
+      ],
+      [
+        4,
+        4,
+        3
+      ],
+      [
+        2,
+        3,
+        3
+      ],
+      [
+        10,
+        2,
+        0
+      ],
+      [
+        3,
+        2,
+        1
+      ],
+      [
+        3,
+        3,
+        1
+      ],
+      [
+        10,
+        3,
+        3
+      ],
+      [
+        8,
+        4,
+        3
+      ],
+      [
+        2,
+        5,
+        3
+      ],
+      [
+        8,
+        2,
+        -1
+      ],
+      [
+        7,
+        4,
+        4
+      ],
+      [
+        9,
+        4,
+        3
+      ],
+      [
+        11,
+        6,
+        7
+      ],
+      [
+        9,
+        6,
+        7
+      ],
+      [
+        1,
+        3,
+        2
+      ],
+      [
+        7,
+        3,
+        3
+      ],
+      [
+        7,
+        5,
+        4
+      ],
+      [
+        4,
+        5,
+        4
+      ],
+      [
+        2,
+        5,
+        6
+      ],
+      [
+        9,
+        3,
+        2
+      ],
+      [
+        9,
+        5,
+        6
+      ],
+      [
+        6,
+        8,
+        3
+      ],
+      [
+        1,
+        3,
+        3
+      ],
+      [
+        7,
+        5,
+        3
+      ],
+      [
+        10,
+        5,
+        4
+      ]
+    ],
+    "independent_fresh_process": true,
+    "sha256": "30d4ee29bdb2f527aea19a0d958fb451886d4dfee698282a8abdb57c11c1ea7a",
+    "relative_solution": "outputs/best_0008.npy"
+  },
+  "completed_finite_experiments": [
+    {
+      "phase": "vacancy_continuation",
+      "status": "completed",
+      "wall_seconds": 70.93448910000734,
+      "official_evaluations": 0,
+      "initial_fitness": -0.9249794238683127,
+      "official_fitness": -0.9249794238683127,
+      "correct_cubes": 140,
+      "commands": 530,
+      "relative_queries": 28045,
+      "skipped_previously_completed_direct_graphs": 19056,
+      "nodes": 1529277,
+      "branches": 2961,
+      "reconstructed_old_boundary": true
+    },
+    {
+      "phase": "prepared_command_pruning",
+      "status": "completed",
+      "wall_seconds": 165.65888760000234,
+      "official_evaluations": 2648,
+      "initial_fitness": -0.9249794238683127,
+      "official_fitness": -0.9251534391534392,
+      "correct_cubes": 140,
+      "commands": 522,
+      "windows": 536,
+      "ordering_attempts": 4921,
+      "improvements": 5,
+      "route_queries": 11301,
+      "nodes": 1146479
+    },
+    {
+      "phase": "safe_command_deletion",
+      "status": "completed",
+      "wall_seconds": 178.46876170000178,
+      "official_evaluations": 2082,
+      "initial_fitness": -0.9251534391534392,
+      "official_fitness": -0.9251534391534392,
+      "correct_cubes": 140,
+      "commands": 522,
+      "deletion_cases": 2082,
+      "improvements": 0
+    },
+    {
+      "phase": "temporary_displacement",
+      "status": "completed",
+      "wall_seconds": 68.49312250001822,
+      "official_evaluations": 532,
+      "initial_fitness": -0.9251534391534392,
+      "official_fitness": -0.9329376837154617,
+      "correct_cubes": 141,
+      "commands": 529,
+      "parked_cases": 572,
+      "unlocked_support_cases": 480,
+      "scope": "All >=2-contact sites for initially incorrect cubes; then newly unlocked supports. Other support relocations remain a possible extension."
+    },
+    {
+      "phase": "multi_cube_best_first",
+      "status": "completed_finite_trials",
+      "wall_seconds": 282.50465429999167,
+      "official_evaluations": 540,
+      "initial_fitness": -0.9329376837154617,
+      "official_fitness": -0.9407001763668429,
+      "correct_cubes": 142,
+      "commands": 537,
+      "groups": [
+        {
+          "group": [
+            24,
+            46,
+            132
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 6000,
+          "frontier": 7389,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_24_46_132_frontier.pkl",
+          "frontier_sha256": "48985e4419d56a75bbd9e850851bc75b265015f61995dfd5dce914fc524117c6"
+        },
+        {
+          "group": [
+            24,
+            46
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 6000,
+          "frontier": 9247,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_24_46_frontier.pkl",
+          "frontier_sha256": "90a51a44d8cb5af45e54baa5a2a6eb9319de50b68b35805fcfe63d66ecae0086"
+        },
+        {
+          "group": [
+            20,
+            46,
+            132
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 1,
+          "frontier": 0,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "frontier_exhausted",
+          "depth_limit": 46,
+          "quota": 6000
+        },
+        {
+          "group": [
+            8,
+            17
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 6000,
+          "frontier": 8218,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_8_17_frontier.pkl",
+          "frontier_sha256": "bd060783bfbdf2d8c3776c984d2635a6804536f9749eee8301a66a6be7c992c5"
+        },
+        {
+          "group": [
+            22,
+            51,
+            84
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 6000,
+          "frontier": 23246,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_22_51_84_frontier.pkl",
+          "frontier_sha256": "027641a9c26ffbd03d113c0abda6a9de551984959291ed2c1b54edf5903b3691"
+        },
+        {
+          "group": [
+            10,
+            13,
+            20,
+            132
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 6000,
+          "frontier": 419,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_10_13_20_132_frontier.pkl",
+          "frontier_sha256": "d1b97872867984ae42a6237b372a394e1c0afa00f5fe36f795fd41fc36cbc7e4"
+        },
+        {
+          "group": [
+            17,
+            45,
+            57,
+            65
+          ],
+          "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+          "expanded": 153,
+          "frontier": 808,
+          "improved": true,
+          "status": "trial_completed",
+          "termination": "improvement",
+          "depth_limit": 46,
+          "quota": 6000
+        },
+        {
+          "group": [
+            42,
+            45,
+            57,
+            131
+          ],
+          "solution_sha256": "a2c7292a3dc53263baf933510dd0a252d6c668b264142ee8431d12332d4b1a34",
+          "expanded": 6000,
+          "frontier": 35230,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_42_45_57_131_frontier.pkl",
+          "frontier_sha256": "c20c2a31fb5c3574669ffcd3749b1afe73acae1dca76cabe3b591ef9f1971f87"
+        },
+        {
+          "group": [
+            94,
+            118,
+            127,
+            128
+          ],
+          "solution_sha256": "a2c7292a3dc53263baf933510dd0a252d6c668b264142ee8431d12332d4b1a34",
+          "expanded": 6000,
+          "frontier": 39951,
+          "improved": false,
+          "status": "trial_completed",
+          "termination": "quota",
+          "depth_limit": 46,
+          "quota": 6000,
+          "saved_frontier": "state\\group_94_118_127_128_frontier.pkl",
+          "frontier_sha256": "197cdb669b113ed73e0a68039b1d0367bb0465d070500db5fb6b62d67f740afd"
+        }
+      ],
+      "total_nodes": 42154,
+      "unfinished": "Quota-limited frontiers are saved for extension; no claim of exhaustive ISS optimization."
+    },
+    {
+      "phase": "vacancy_continuation",
+      "status": "completed",
+      "wall_seconds": 0.10938999999780208,
+      "official_evaluations": 0,
+      "initial_fitness": -0.9407001763668429,
+      "official_fitness": -0.9407001763668429,
+      "correct_cubes": 142,
+      "commands": 537,
+      "relative_queries": 281,
+      "skipped_previously_completed_direct_graphs": 0,
+      "nodes": 57556,
+      "branches": 0,
+      "reconstructed_old_boundary": true
+    },
+    {
+      "phase": "prepared_command_pruning",
+      "status": "completed",
+      "wall_seconds": 52.67182889999822,
+      "official_evaluations": 539,
+      "initial_fitness": -0.9407001763668429,
+      "official_fitness": -0.9407436801881247,
+      "correct_cubes": 142,
+      "commands": 535,
+      "windows": 407,
+      "ordering_attempts": 2809,
+      "improvements": 1,
+      "route_queries": 6175,
+      "nodes": 643861
+    },
+    {
+      "phase": "safe_command_deletion",
+      "status": "completed",
+      "wall_seconds": 183.5745908000099,
+      "official_evaluations": 2134,
+      "initial_fitness": -0.9407436801881247,
+      "official_fitness": -0.9407436801881247,
+      "correct_cubes": 142,
+      "commands": 535,
+      "deletion_cases": 2134,
+      "improvements": 0
+    },
+    {
+      "phase": "saved_frontier_integrity",
+      "status": "completed_checks",
+      "wall_seconds": 3.1578869999793824,
+      "official_evaluations": 7,
+      "initial_fitness": -0.9407436801881247,
+      "official_fitness": -0.9407436801881247,
+      "correct_cubes": 142,
+      "commands": 535,
+      "groups": [
+        {
+          "group": [
+            10,
+            13,
+            20,
+            132
+          ],
+          "expanded": 6000,
+          "frontier": 419,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            22,
+            51,
+            84
+          ],
+          "expanded": 6000,
+          "frontier": 23246,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            24,
+            46
+          ],
+          "expanded": 6000,
+          "frontier": 9247,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            24,
+            46,
+            132
+          ],
+          "expanded": 6000,
+          "frontier": 7389,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            42,
+            45,
+            57,
+            131
+          ],
+          "expanded": 6000,
+          "frontier": 35230,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            8,
+            17
+          ],
+          "expanded": 6000,
+          "frontier": 8218,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        },
+        {
+          "group": [
+            94,
+            118,
+            127,
+            128
+          ],
+          "expanded": 6000,
+          "frontier": 39951,
+          "prefix_officially_replayed": true,
+          "sha256_passed": true
+        }
+      ],
+      "search_finished": false
+    },
+    {
+      "phase": "independent_final_verification",
+      "status": "completed",
+      "wall_seconds": 23.37772090002545,
+      "official_evaluations": 537,
+      "initial_fitness": -0.9407436801881247,
+      "official_fitness": -0.9407436801881247,
+      "correct_cubes": 142,
+      "commands": 535,
+      "verification_file": "outputs\\independent_verification_6fea0791.json",
+      "prefixes": 535
+    }
+  ],
+  "saved_multi_cube_frontiers": [
+    {
+      "group": [
+        10,
+        13,
+        20,
+        132
+      ],
+      "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+      "expanded": 6000,
+      "frontier": 419,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_10_13_20_132_frontier.pkl",
+      "frontier_sha256": "d1b97872867984ae42a6237b372a394e1c0afa00f5fe36f795fd41fc36cbc7e4"
+    },
+    {
+      "group": [
+        22,
+        51,
+        84
+      ],
+      "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+      "expanded": 6000,
+      "frontier": 23246,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_22_51_84_frontier.pkl",
+      "frontier_sha256": "027641a9c26ffbd03d113c0abda6a9de551984959291ed2c1b54edf5903b3691"
+    },
+    {
+      "group": [
+        24,
+        46
+      ],
+      "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+      "expanded": 6000,
+      "frontier": 9247,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_24_46_frontier.pkl",
+      "frontier_sha256": "90a51a44d8cb5af45e54baa5a2a6eb9319de50b68b35805fcfe63d66ecae0086"
+    },
+    {
+      "group": [
+        24,
+        46,
+        132
+      ],
+      "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+      "expanded": 6000,
+      "frontier": 7389,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_24_46_132_frontier.pkl",
+      "frontier_sha256": "48985e4419d56a75bbd9e850851bc75b265015f61995dfd5dce914fc524117c6"
+    },
+    {
+      "group": [
+        42,
+        45,
+        57,
+        131
+      ],
+      "solution_sha256": "a2c7292a3dc53263baf933510dd0a252d6c668b264142ee8431d12332d4b1a34",
+      "expanded": 6000,
+      "frontier": 35230,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_42_45_57_131_frontier.pkl",
+      "frontier_sha256": "c20c2a31fb5c3574669ffcd3749b1afe73acae1dca76cabe3b591ef9f1971f87"
+    },
+    {
+      "group": [
+        8,
+        17
+      ],
+      "solution_sha256": "623efbc0c7eb33c60b023ee2e50400f4ba9a50246d972c67dfd26cc3f129e113",
+      "expanded": 6000,
+      "frontier": 8218,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_8_17_frontier.pkl",
+      "frontier_sha256": "bd060783bfbdf2d8c3776c984d2635a6804536f9749eee8301a66a6be7c992c5"
+    },
+    {
+      "group": [
+        94,
+        118,
+        127,
+        128
+      ],
+      "solution_sha256": "a2c7292a3dc53263baf933510dd0a252d6c668b264142ee8431d12332d4b1a34",
+      "expanded": 6000,
+      "frontier": 39951,
+      "improved": false,
+      "status": "trial_completed",
+      "termination": "quota",
+      "depth_limit": 46,
+      "quota": 6000,
+      "saved_frontier": "state/group_94_118_127_128_frontier.pkl",
+      "frontier_sha256": "197cdb669b113ed73e0a68039b1d0367bb0465d070500db5fb6b62d67f740afd"
+    }
+  ],
+  "unfinished": [
+    "Continue the saved multi-cube heaps via code/launch.py extend.py, using each heap's stored verified prefix and comparing candidates with the GLOBAL latest best. Do not rebuild the heap. Historical starting solutions remain valid search branches.",
+    "Investigate additional support relocations beyond newly unlocked support cubes.",
+    "Explore larger groups or deeper paths; the search is not an exhaustive proof."
+  ],
+  "resume_note": "Initial old frontier was absent. Deterministic traversal reconstructed the old last logged query 7778 (relative 7452), skipping known-completed direct graphs. Later branch and window cursors and full group frontiers are saved. A partial current graph may be repeated.",
+  "execution_notes": [
+    "An initial logging-key collision was corrected before accepting any candidate. See console_continue.py.log.",
+    "The slow continuation was checkpointed and replaced with a compiled equivalent BFS. Complete reachable-state and parent-path equality is checked on all 148 cube graphs before using it.",
+    "Prepared pruning is the previous polish.py route compression, followed by safe deletion of 1-4 commands and removal of ineffective suffix commands."
+  ],
+  "protected_files_checked": 6216,
+  "remaining_cube_ids": [
+    8,
+    24,
+    46,
+    51,
+    118,
+    132
+  ],
+  "optimization_phase_count": 8,
+  "multi_cube_trial_count": 9,
+  "session_timing": {
+    "directory_created_utc": "2026-11-18T20:51:15.823618+00:00",
+    "report_saved_utc": "2026-11-18T21:24:34.432301+00:00",
+    "wall_seconds_since_directory_creation": 1998.6086831092834,
+    "completed_phase_seconds": 1028.951332800032,
+    "note": "Phase timings exclude preparation, imports, interrupted attempts, equivalence checks and packaging. Full wall timing starts at creation of the isolated directory."
+  }
+}
